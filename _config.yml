@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Gerard Assayag"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/images/GG.jpg"
   bio    : "PI ERC ADG REACH Project"
   links:
     - label: "Website"

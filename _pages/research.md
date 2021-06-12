@@ -1,7 +1,8 @@
 ---
 title: "Research"
 layout: splash
-permalink: /research
+permalink: /research/
+layout: research
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
