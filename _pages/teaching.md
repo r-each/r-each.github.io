@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: splash
-permalink: /teaching
+permalink: /teaching/
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
@@ -9,7 +9,7 @@ header:
 excerpt: "All the educational material and project statements available here."
 
 feature_row:
-  - image_path: /images/artisticiel.jpeg
+  - image_path: /images/artisticiel.jpg
     alt: "Pure Data"
     title: "Pure Data"
     excerpt: "PDF files and projects for **M2 - ATIAM**"
